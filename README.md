@@ -80,8 +80,6 @@ For any additional questions, please [email](mailto:gcburgess@gmail.com) or conn
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Presentation.pdf                    <- PDF version of project presentation
